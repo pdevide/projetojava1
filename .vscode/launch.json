@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Executar ola-mundo (Corretto 21)",
+      "request": "launch",
+      "mainClass": "br.com.estudos.Main",
+      "projectName": "ola-mundo"
+    }
+  ]
+}
